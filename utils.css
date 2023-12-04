@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Ubuntu:wght@300&display=swap');
+.mx-auto{
+    margin: auto;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+.items-center{
+    align-items: center;
+}
+
+.lh{
+    line-height: 1.5;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.navbar{
+    display: flex;
+    height: 70px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.highlighted{
+    font-size: 1rem;
+    font-weight: bold;
+}
