@@ -1,1 +1,1 @@
-# Gym-business-landing-page-project
+# Gym business landing page
